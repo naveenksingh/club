@@ -1,1 +1,1 @@
-# d-billi
+# club static site
